@@ -8,3 +8,10 @@ print(lista2)
 #adcinonar na lista
 lista1 .append("coisa")
 print (lista1)
+
+#remover da lista
+lista1 .remove("augusto")
+print(lista1)
+
+for listageral in lista1:
+    print (listageral)
