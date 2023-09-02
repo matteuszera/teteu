@@ -1,10 +1,10 @@
 # Atividade 1
 
-nome = "Danilo"
-sobrenome = "Amaral"
+nome = "Mateus"
+sobrenome = "Augusto"
 idade = 19
-altura = 1.65
-peso = 50.1
+altura = 1.79
+peso = 78,0
 maior_de_idade = idade >= 18
 
 print ("Nome:", nome)
